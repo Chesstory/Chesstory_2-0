@@ -2,4 +2,4 @@
  * @author HiJohn
  *
  */
-package Echecs;
+package echecs;
